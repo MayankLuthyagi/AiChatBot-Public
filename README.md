@@ -4,6 +4,8 @@
 
 [Try the live demo here!](https://chat-with-friend.streamlit.app/)
 
+If the demo link does not work, it means I am upgrading the project.
+
 ## Features
 
 - **Conversational AI**: The chatbot simulates human-like conversations.
