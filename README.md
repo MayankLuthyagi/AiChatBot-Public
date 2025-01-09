@@ -1,6 +1,6 @@
 # AiChatBot
 
-**AiChatBot** is an AI-powered chatbot that interacts with you like a friend, providing a friendly, conversational experience. Whether you're feeling down, need advice, or just want to chat about your day, AiChatBot is here to listen and engage in a natural conversation.
+**AiChatBot** is an intelligent assistant designed to help you navigate and excel in programming languages. Whether you're a beginner learning the basics or tackling complex problems, AIChatBot provides instant solutions, explanations, and resources tailored to your needs.
 
 [Try the live demo here!](https://learn-pro.streamlit.app/)
 
