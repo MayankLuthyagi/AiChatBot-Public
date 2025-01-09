@@ -2,7 +2,7 @@
 
 **AiChatBot** is an AI-powered chatbot that interacts with you like a friend, providing a friendly, conversational experience. Whether you're feeling down, need advice, or just want to chat about your day, AiChatBot is here to listen and engage in a natural conversation.
 
-[Try the live demo here!](https://chat-with-friend.streamlit.app/)
+[Try the live demo here!](https://learn-pro.streamlit.app/)
 
 If the demo link does not work, it means I am upgrading the project.
 
